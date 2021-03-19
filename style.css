@@ -1,0 +1,20 @@
+*{
+    background-color: grey;
+    color: purple;
+    font-family: sans-serif;
+}
+
+header{
+    text-align: center;
+    text-overflow: wrap;
+}
+header p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin: 10px 275px 10px 275px;
+}
+
+
+/* default boarder: 2px dotted, color
+--dark: 
+   color: var(--dark) */
